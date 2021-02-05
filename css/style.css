@@ -149,7 +149,7 @@ body {
 
 .main-title {
   background-color: #f7f7f7;
-  height: 469px;
+  padding: 70px 65px 55px 65px;
 }
 .title__img {
   display: flex;
@@ -285,6 +285,9 @@ body {
   .item {
     height: auto;
     padding: 0 0 70% 0;
+  }
+  .main-title {
+    padding: 40px 35px 30px 35px;
   }
 
   .brands1 .brands__column:nth-child(1) {
